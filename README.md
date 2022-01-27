@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div>
+<div style="display: flex;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaonetocastro&theme=onedark)](https://github.com/anuraghazra/github-readme-stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaonetocastro&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats" />
 </div>
