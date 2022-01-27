@@ -1,6 +1,8 @@
 ### Hi there 👋
+<div style="display:flex; align-items: stretch">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaonetocastro&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaonetocastro&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 <!--
 **joaonetocastro/joaonetocastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
