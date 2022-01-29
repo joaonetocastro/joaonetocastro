@@ -4,6 +4,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaonetocastro&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats" />
 </div>
 <div>
+  <a href = "mailto:j.neto111@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://linkedin.com/in/joaonetoc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
